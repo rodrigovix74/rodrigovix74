@@ -1,4 +1,12 @@
-### Hi there 👋
+Sejam Bem vindos ao meu GitHub 👋
+
+O meu nome é Rodrigo Carvalho dos Santos, sou capixaba, formado em Administração de Empresas, também sou desenvolvedor web e utilizo as linguagens PHP e MySQL para trabalhar com  backend e HTML, CSS e Bootstrap para trabalhar com frontend.
+Atualmente estou aprimorando os meus conhecimentos participando de alguns cursos:
++ administrador de banco de dados;
++ desenvolvimento de aplicativos móveis;
++ desenvolvedor de jogos eletrônicos;
++ desenvolvedor de sistemas;
+
 
 <!--
 **rodrigovix74/rodrigovix74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
