@@ -17,7 +17,7 @@
     </td>
     <td align="left" width="70%">
       <h1>Olá, eu sou o Rodrigo Carvalho! 👋</h1>
-      <h3>Auditor Interno | Compliance | Gestão de Riscos | Controle Interno | Qualidade</h3>
+      <h3>Auditor de TI | Análise de Dados | Automação | Mapeamento de Processos | Melhoria Contínua</h3>
       <p><em>“Transformando riscos em estratégias, dados em decisões e processos em valor para a organização.”</em></p>
       <p>
         <a href="https://www.linkedin.com/in/rodrigo-carvalho-dos-santos-484b0255/">
